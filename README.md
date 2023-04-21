@@ -8,14 +8,9 @@
 </div>
 
 ---
-
-<div id="header" align="center">
- <h3 align="center">¡No te tomes la vida tan en serio, no sobrevivirás después de todo!
-  
-  
- 
- </h3>
-    
+<div>
+  <span> ¡No te tomes la vida tan en serio, no sobrevivirás después de todo!</span>
+</div>
 
 ---
 
@@ -31,7 +26,6 @@
 
 
 ---
-<h3 align="left">Conéctate conmigo:</h3><p align="left">
 </p><h3 align="left">Lenguajes y herramientas:</h3><p align="left">
 
 
