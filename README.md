@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
 
-- 🌐 Website [www.guillen.cl](www.guillen.cl)
+- 🌐 Website [guillen.cl](www.guillen.cl)
 
 
 ---
