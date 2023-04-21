@@ -1,10 +1,10 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Giancarlos</h1>
     <h3 align="center">Hi, I'm Giancarlos.
-        I am a software developer and a normal person who studied computer engineering, a lover of technology and photography
-        ---
+        I am a software developer and a normal person who studied computer engineering, a lover of technology and photography</h3>
+       
 
-        Don't take life so seriously, you won't survive after all!</h3>
+      <h4  Don't take life so seriously, you won't survive after all! </h4>
 </div>
 
 ---
