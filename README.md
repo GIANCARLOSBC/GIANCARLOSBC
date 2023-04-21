@@ -2,6 +2,7 @@
     <h1 align="center">Hi 👋, I'm Giancarlos</h1>
     <h3 align="center">Hi, I'm Giancarlos.
         I am a software developer and a normal person who studied computer engineering, a lover of technology and photography
+        ---
 
         Don't take life so seriously, you won't survive after all!</h3>
 </div>
