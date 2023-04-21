@@ -9,9 +9,12 @@
 
 ---
 
- <div id="nav" aling="center>
-        <span aling="center"> ¡No te tomes la vida tan en serio, no sobrevivirás después de todo!</span>
- </div>
+<div id="header" align="center">
+ <h3 align="center">¡No te tomes la vida tan en serio, no sobrevivirás después de todo!
+  
+  
+ 
+ </h3>
     
 
 ---
