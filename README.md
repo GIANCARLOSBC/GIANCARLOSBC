@@ -1,13 +1,18 @@
 <div id="header" align="center">
  <h1 align="center">Hola 👋, soy Giancarlos</h1>
  <h3 align="center">Hola, soy Giancarlos.
-  Soy un desarrollador de software y una persona normal que estudió ingeniería informática, amante de la tecnología y la fotografía. 
- 
- ¡No te tomes la vida tan en serio, no sobrevivirás después de todo!
+  Soy un desarrollador de software y una persona normal que estudió ingeniería informática, amante de la tecnología y la fotografía.
  
  </h3>
 
 </div>
+
+---
+
+ <div>
+        <span> ¡No te tomes la vida tan en serio, no sobrevivirás después de todo!</span>
+ </div>
+    
 
 ---
 
